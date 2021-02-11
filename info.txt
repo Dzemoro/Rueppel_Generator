@@ -1,0 +1,3 @@
+==Generator samodecymujący Rueppela==
+
+Steruje on własnym wejściem zegarowym. Kiedy wyjście rejestru LFSR jest równe 0, wtedy ten LFSR jest taktowany d razy, a gdy jest równe 1 to k razy. Użytkownik podaje wartości parametrów d i k oraz ilość znaków, jaka ma zostać wygenerowana.
